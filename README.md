@@ -4,3 +4,12 @@ in each level the player need to acomplish the point limits indicated in the sce
 This repository include a webGl build to test the game quickly.
 
 ![Image of the game](https://github.com/IsmailMAJBAR/BoxShooter/blob/master/images/Capture.PNG)
+
+To test it : 
+- Download the git repo
+- Go to BoxShooter/WebGL folder
+- run the index.html on your browser
+Can be tested on any Environnement Os linux and Win as long as you have a browser
+
+Code developped on Windows systems
+
